@@ -1,0 +1,7 @@
+This is a flask app for deployment to heroku.
+
+Getting Started: https://devcenter.heroku.com/articles/python
+(You can skip some of the heroku deployment stuff and just get it running locally)
+
+email to rss: http://www.mmmmail.com/
+db access in flask: http://packages.python.org/Flask-SQLAlchemy/
